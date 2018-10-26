@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MorseRepresentations
+comment0.text=\n\ \n\ International\ Morse\ Code\ defines\ a\ standard\ encoding\ where\ each\ letter\ is\ \n\ mapped\ to\ a\ series\ of\ dots\ and\ dashes,\ as\ follows\:\u00A0"a"\u00A0maps\ to\u00A0".-",\u00A0"b"maps\n\ to\u00A0"-...",\u00A0"c"\u00A0maps\ to\u00A0"-.-.",\ and\ so\ on.\n\ Now,\ given\ a\ list\ of\ words,\ each\ word\ can\ be\ written\ as\ a\ concatenation\ of\ \n\ the\ Morse\ code\ of\ each\ letter.\ For\ example,\ "cab"\ can\ be\ written\ as\ \n\ "-.-.-....-",\ (which\ is\ the\ concatenation\ "-.-."\ +\ "-..."\ +\ ".-").\ We'll\ \n\ call\ such\ a\ concatenation,\ the\ transformation\u00A0of\ a\ word.\n\n\ Return\ the\ number\ of\ different\ transformations\ among\ all\ words\ we\ have.\n\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=words
+comment2.target=int\ uniqueMorseRepresentations(java.lang.String[])
+numComments=3

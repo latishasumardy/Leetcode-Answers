@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Sum
+comment0.text=\n\ Calculate\ the\ sum\ of\ two\ integers\u00A0a\u00A0and\u00A0b,\ but\ you\ are\u00A0not\ allowed\u00A0to\ use\ the\ \n\ operator\u00A0+\u00A0and\u00A0-.\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a\ b
+comment2.target=int\ getSum(int,\ int)
+numComments=3

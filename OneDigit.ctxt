@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OneDigit
+comment0.text=\nGiven\ a\ non-negative\ integer\u00A0num,\ repeatedly\ add\ all\ its\ digits\ until\ the\ \nresult\ has\ only\ one\ digit.\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=num
+comment2.target=int\ addDigits(int)
+numComments=3
