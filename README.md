@@ -1,2 +1,2 @@
 # LeetCode-Answers
-# Created by Latisha Sumardy
+Created by Latisha Sumardy
