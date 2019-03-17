@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=RepeatedElements
-comment0.text=\n\ Write\ a\ description\ of\ class\ RepeatedElements\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ In\ a\ array\ A\ of\ size\ 2N,\ there\ are\ N+1\ unique\ elements,\ and\ exactly\ one\ of\ \n\ these\ elements\ is\ repeated\ N\ times.\n\nReturn\ the\ element\ repeated\ N\ times.\n\n\n
 comment1.params=
 comment1.target=void\ main()
 comment2.params=A
